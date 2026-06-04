@@ -22,6 +22,17 @@ Source: Kaggle
 - 80% of users were classified as low- or moderate-activity users based on average daily step counts
 - Lightly active minutes accounted for 84.9% of all recorded active minutes
 
+## Visualizations
+
+### Average Daily Steps by Day of Week
+![Average Daily Steps by Day of Week](images/Average Daily Steps by Day of Week.png)
+
+### Distribution of Active Minutes by Activity Intensity
+![Distribution of Active Minutes by Activity Intensity](images/Activity Intensity Distribution.png)
+
+### User Distribution by Average Daily Step Count
+![User Distribution by Average Daily Step Count](images/User Segmentation.png)
+
 ## Recommendations
 - Test incentives that encourage Sunday user engagement
 - Test incentives that amplify strong Saturday engagement
