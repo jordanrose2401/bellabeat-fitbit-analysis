@@ -1,14 +1,15 @@
 # Bellabeat Fitbit Usage Analysis
 
 ## Overview
-This project follows the Google Data Analystics, featured on coursera, "Ask/Prepare/Process/Analyze/Share/Act" framework.
-This project analyzes Fitbit data from 35 users with the goal of influencing Bellabeat marketing strategies for its smart devices.
+This project follows the Google Data Analytics Professional Certificate's Ask, Prepare, Process, Analyze, Share, and Act framework to analyze Fitbit usage data and develop data-driven marketing recommendations for Bellabeat.
 
 ## Business Task
 What are trends in smart device usage and how can these trends be applied to Bellabeat customers and how can they influence Bellabeat marketing strategies?
 
 ## Data
-Fitabase Data (Mar 2016-May2016)
+Fitabase Fitness Tracker Data (Mar 2016-May2016)
+
+Source: Kaggle
 
 ## Tools
 - SQL
@@ -18,7 +19,7 @@ Fitabase Data (Mar 2016-May2016)
 - Users were most active on Saturdays, and least active on Sundays
 - User activity levels were mostly consistent across weekdays
 - Calories burned were relatively consistent across the full week
-- 80% of users had an average daily step count of less than 10,000
+- 80% of users were classified as low- or moderate-activity users based on average daily step counts
 - Lightly active minutes accounted for 84.9% of all recorded active minutes
 
 ## Recommendations
